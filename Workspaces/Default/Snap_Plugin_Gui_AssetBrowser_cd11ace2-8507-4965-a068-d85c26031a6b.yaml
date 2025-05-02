@@ -1,11 +1,7 @@
 CollapsedEntities:
   type: stringset
   value:
-<<<<<<< HEAD
-    size: 924
-=======
-    size: 906
->>>>>>> upstream/main
+    size: 925
     values:
       - Base.png
       - Box.mesh
@@ -26,6 +22,8 @@ CollapsedEntities:
       - Normal.png
       - PBR 2.mat
       - PBR.mat
+      - Scene2.scene
+      - SpectaclesSyncKit
       - SpectaclesSyncKit/Components
       - SpectaclesSyncKit/Components/Instantiator.ts
       - SpectaclesSyncKit/Components/SyncHelpers
