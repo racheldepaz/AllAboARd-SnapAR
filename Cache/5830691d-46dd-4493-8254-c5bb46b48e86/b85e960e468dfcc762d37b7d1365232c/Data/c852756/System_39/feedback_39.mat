@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 - !<Material/02c50374-6216-49ab-8bcd-c3ccd25395a5>
   PackagePath: ""
   PassesInfo:
@@ -7,12 +8,19 @@
 - !<PassInfo/2622dfcd-c526-484f-8d43-3356efbf8a87>
 =======
 - !<Material/95833c17-2706-4d81-a28d-70dff6e6368d>
+=======
+- !<Material/b2ecc66c-6f75-4ede-a010-2750b105d2ed>
+>>>>>>> parent of 6996ba5 (Boat in project)
   PackagePath: ""
   PassesInfo:
-    - !<own> f6ccea59-6102-44da-9482-c01b11f66cf7
+    - !<own> 6217d1a4-41a4-4b61-af6f-1b9b7ffcdc25
   Name: Material_Feedback
+<<<<<<< HEAD
 - !<PassInfo/f6ccea59-6102-44da-9482-c01b11f66cf7>
 >>>>>>> upstream/main
+=======
+- !<PassInfo/6217d1a4-41a4-4b61-af6f-1b9b7ffcdc25>
+>>>>>>> parent of 6996ba5 (Boat in project)
   CachedProperties:
     []
   DepthWrite: false

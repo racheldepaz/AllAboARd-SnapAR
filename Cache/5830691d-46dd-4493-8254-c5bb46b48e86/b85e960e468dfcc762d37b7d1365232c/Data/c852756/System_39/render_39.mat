@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 - !<Material/e68bc0f1-67fe-4834-80ce-87aa842f470c>
   PackagePath: ""
   PassesInfo:
@@ -7,12 +8,19 @@
 - !<PassInfo/09c77378-9f9f-4935-b41d-5883d438c23e>
 =======
 - !<Material/65d042e2-e5c3-438e-b963-987b1058d1f2>
+=======
+- !<Material/7db51303-1e15-4441-81a8-e0f69d08e8f0>
+>>>>>>> parent of 6996ba5 (Boat in project)
   PackagePath: ""
   PassesInfo:
-    - !<own> 2faaec11-3186-4761-a20e-b2077dc6b24c
+    - !<own> b8dc6815-044a-4b23-8465-e60706138e55
   Name: Material_Render
+<<<<<<< HEAD
 - !<PassInfo/2faaec11-3186-4761-a20e-b2077dc6b24c>
 >>>>>>> upstream/main
+=======
+- !<PassInfo/b8dc6815-044a-4b23-8465-e60706138e55>
+>>>>>>> parent of 6996ba5 (Boat in project)
   CachedProperties:
     - renderTarget0:
         typeIdx: 9
